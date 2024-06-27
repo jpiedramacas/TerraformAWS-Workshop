@@ -4,11 +4,6 @@
 
 Este documento proporciona una guía detallada para actualizar las variables de entrada, el proveedor, los valores locales y las fuentes de datos en un proyecto de Terraform. Terraform es una herramienta de infraestructura como código (IaC) que permite definir, provisionar y gestionar la infraestructura a través de archivos de configuración.
 
-## Requisitos Previos
-
-1. **Instalar Terraform**: Asegúrate de tener Terraform instalado en tu máquina. Puedes descargarlo desde [Terraform.io](https://www.terraform.io/downloads).
-2. **Configuración de AWS CLI**: Asegúrate de tener configurado AWS CLI con las credenciales necesarias.
-
 ## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
