@@ -244,9 +244,7 @@ Los valores locales y las fuentes de datos ayudan a reutilizar configuraciones y
 
 2. **Planificar el despliegue**:
    Crear un plan de ejecución para visualizar los cambios que se aplicarán.
-   ```
-
-bash
+   ```bash
    terraform plan
    ```
 
